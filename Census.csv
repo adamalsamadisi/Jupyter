@@ -1,0 +1,11 @@
+Weight(lb),Age(years),TravelToWork(min),School,Gender,IncomeLastYear($)
+187,66,0,Ninth Grade,1,24000
+158,66,,HS Grad,2,0
+176,54,10,Assoc. Degree,2,11900
+339,37,10,Assoc. Degree,1,6000
+91,27,10,Some College,2,30000
+155,18,,HS Grad,2,0
+213,38,15,Master's,2,125000
+194,40,0,HS Grad,1,800
+221,18,20,HS Grad,1,25000
+193,11,,Fifth Grade,1,0
